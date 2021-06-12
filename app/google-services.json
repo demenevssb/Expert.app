@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012414005215",
+    "project_id": "expert-database-b2aea",
+    "storage_bucket": "expert-database-b2aea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012414005215:android:0fd5c76279d471d1070e6a",
+        "android_client_info": {
+          "package_name": "com.expert.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012414005215-3tlln3q6cvkab5tgqpnep8dmmmn3td8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8LngW5mxNpIx0NrBGYVj_fepDop5hlMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012414005215-3tlln3q6cvkab5tgqpnep8dmmmn3td8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
